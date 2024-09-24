@@ -215,7 +215,7 @@ Função principal que inicializa o IMU, lê os dados do sensor e imprime os res
 
 ## Esquemático
 
-![Esquemático](images/Schematic_ESP32_GS90.png)
+![Esquemático](Schematic_ESP32_MPU6050_SERVO.png)
 
 ---
 
@@ -233,7 +233,7 @@ Função principal que inicializa o IMU, lê os dados do sensor e imprime os res
 
 ## Protótipo
 
-[Veja o projeto no Wokwi!](https://wokwi.com/projects/407681050838358017)
+[Veja o projeto no Wokwi!](https://wokwi.com/projects/409870011810357249)
 
 ---
 
