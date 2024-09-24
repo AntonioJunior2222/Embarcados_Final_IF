@@ -238,6 +238,11 @@ Função principal que inicializa o IMU, lê os dados do sensor e imprime os res
 
 ---
 
+## Demonstração
+
+[Veja o vídeo de demonstração no simulador!](https://youtu.be/4OXdMQ3T2G0)
+
+---
 ## Autores
 
 - [Antonio Roberto](https://github.com/antoniojunior2222)
@@ -246,7 +251,3 @@ Função principal que inicializa o IMU, lê os dados do sensor e imprime os res
 - [Felipe Braz](https://github.com/felipebrazfb333)
 - [Guilherme Santos](https://github.com/GuilhermexL)
 - [Marcelo Ribeiro](https://github.com/Marcelo-RSilva)
-
----
-
-Agora a documentação inclui ambos os módulos (Servo Motor e MPU6050), com os requisitos e funções devidamente unificados e sem duplicações.
