@@ -22,7 +22,8 @@ Este documento descreve as funções implementadas para a comunicação com um *
   - `driver/gpio.h`
 
 ## Portas utilizadas na ESP32
-- Servo Motor: PWM - GPIO PIN 13
+- Servo Motor 1: PWM - GPIO PIN 13
+- Servo Motor 2: PWM - GPIO PIN 27
 - MPU6050: 
   - SDA - GPIO PIN 21
   - SCL - GPIO PIN 22
@@ -221,13 +222,13 @@ Função principal que inicializa o IMU, lê os dados do sensor e imprime os res
 
 ## Máquina de Estados
 
-![Máquina de Estados](images/Maquina_de_estados.png)
+![Máquina de Estados](ESP-IDF/Maquina_de_estados.png)
 
 ---
 
 ## Diagrama de Blocos
 
-![Diagrama de Blocos](images/Diagrama_de_blocos.png)
+![Diagrama de Blocos](ESP-IDF/Diagrama_de_blocos.png)
 
 ---
 
