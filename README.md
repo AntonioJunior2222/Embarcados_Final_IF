@@ -238,9 +238,11 @@ Função principal que inicializa o IMU, lê os dados do sensor e imprime os res
 
 ---
 
-## Demonstração
+## Demonstrações
 
 [Veja o vídeo de demonstração no simulador!](https://youtu.be/4OXdMQ3T2G0)
+
+[Veja o vídeo de demonstração no protótipo real!](https://youtu.be/R3mA2GjpMkU)
 
 ---
 ## Autores
